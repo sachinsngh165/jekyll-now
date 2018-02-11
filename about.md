@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Sachin Singh
 permalink: /about/
 ---
 
-Some information about you!
+Hey Guys!
+This is sachin. I'm undergrad at NSIT ( Netaji Subhas Institute of Technology ) in Information Technology Department.
+I love to read about technologies and new advances in field of computer science like machine learning , blockchain , AI
+and internet of thing. I've create this blog just to share my knowledge with everyone
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Since life is too short that's why i use Python :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sachinsngh165@gmail.com](mailto:sachinsngh165.com)
