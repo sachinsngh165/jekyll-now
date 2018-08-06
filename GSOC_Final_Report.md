@@ -20,8 +20,8 @@ For our visualization task we have required a fast plotting method that can plot
 This GSOC was an extremely enlightening and fun experience. While working on this project I've improved my problem solving and designing skills. My both the mentors Cristobal Medina-López and Jose Manuel García Salmerón helped me throughout this period and were giving me constant feedback. I'm very thankful to both of the mentors. I think contributing to open source is the best way to sharpen your skills and I wish to continue my contribution.
 
 ## Commits and pull request
-https://github.com/P2PSP/simulator/commits?author=sachinsngh165
+[https://github.com/P2PSP/simulator/commits?author=sachinsngh165](https://github.com/P2PSP/simulator/commits?author=sachinsngh165)
 
 ## Issues raised and bugs detected
-https://github.com/P2PSP/simulator/issues/36
-https://github.com/P2PSP/simulator/issues/31
+[https://github.com/P2PSP/simulator/issues/36](https://github.com/P2PSP/simulator/issues/36)
+[https://github.com/P2PSP/simulator/issues/31](https://github.com/P2PSP/simulator/issues/31)
