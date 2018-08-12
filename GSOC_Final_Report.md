@@ -3,8 +3,6 @@ layout: default
 ---
 # Google Summer of Code 2018 with [P2PSP](p2psp.org)
 
-# Enhacements to the P2PSP Simulator
-
 **Name: Sachin Singh**
 
 **Email: sachinsngh165@gmail.com**
@@ -14,6 +12,8 @@ layout: default
 **Mentors: Cristobal Medina-López and Jose Manuel García Salmerón**
 
 **Project: [P2PSP Simulator](https://github.com/P2PSP/simulator/)**
+
+# Enhacements to the P2PSP Simulator
 
 ## Abstract
 During this GSOC period, I've worked with P2PSP. The P2PSP is an application layer protocol for the real-time streaming of multimedia content over the Internet, i.e., where the users playback the stream in a synchronized way. My project was to make enhancements to the P2PSP simulator. P2PSP simulator aims to give visualization for p2psp protocols and visualize the peers interaction within a team, which would make the testing easier and convenient. Since production code was in C++ (which is super fast), even a small modification in codebase can be very hectic. But having a simulator, we can first test this modification in the simulator and if it is found to be working then we can easily implement this in production code.
