@@ -72,6 +72,8 @@ This GSOC was an extremely enlightening and fun experience. While working on thi
 
 [https://github.com/sachinsngh165/PyQtGraph-Experiments/commits/master](https://github.com/sachinsngh165/PyQtGraph-Experiments/commits/master)
 
+[https://github.com/P2PSP/simulator/pull/40](https://github.com/P2PSP/simulator/pull/40)
+
 ## Issues raised and bugs detected
 [https://github.com/P2PSP/simulator/issues/36](https://github.com/P2PSP/simulator/issues/36)
 
